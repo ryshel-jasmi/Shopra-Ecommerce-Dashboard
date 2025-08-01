@@ -1,6 +1,6 @@
 # 📊 SHOPRA ECOMMERCE SALES DASHBOARD
 
-
+<img width="1276" height="715" alt="shopra-ecommerce-dashboard" src="https://github.com/user-attachments/assets/5e73dced-fdd5-4471-b25f-a508b2b0d810" />
 A Power BI dashboard that provides deep, interactive insights into online sales across Clothing, Electronics, and Furniture.
 
 ---
@@ -10,6 +10,7 @@ A Power BI dashboard that provides deep, interactive insights into online sales 
 
 - **Interactive Filters & Slicers**  
   Drill into data by quarter, state, category, or sub-category.
+
 
 
 - **KPI Cards**  
